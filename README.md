@@ -1,2 +1,2 @@
 # ProyectoAClonar
-este proyecto es solo para fines de una actividad y sera clonado por una alumna
+This project is for one activity purposes only and will be cloned by a student
